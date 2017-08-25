@@ -1,0 +1,20 @@
+<snippet>
+  <content><![CDATA[
+<html>
+<head>
+	<title></title>
+	<link rel="stylesheet" type="text/css" href="css/style.css">
+	<script type="text/javascript" src="js/app.js"></script>
+	<meta charset="UTF-8">
+</head>
+<body>
+
+</body>
+</html>
+
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>html</tabTrigger>
+  <description>Base d'un code HTML</description>
+
+</snippet>
