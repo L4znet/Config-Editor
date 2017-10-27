@@ -1,19 +1,296 @@
 {
 	"folder_history":
 	[
+		"/Users/anton/Documents",
+		"/Users/anton/Documents/poo",
+		"/Users/anton/Documents/Petsy",
+		"/Volumes/VPS 2",
+		"/Volumes/VPS 2/proto/add_owner",
+		"/Volumes/VPS",
+		"/Volumes/VPS/proto/Rorformation",
+		"/Volumes/VPS/proto",
+		"/Volumes/VPS/proto/coloration",
+		"/Volumes/VPS 4",
+		"/Volumes/VPS 4/proto/navigateur_name",
+		"/Volumes/VPS 3",
+		"/Volumes/VPS 3/proto/about",
+		"/Volumes/VPS 3/proto/trello",
+		"/Volumes/VPS 3/proto",
+		"/Volumes/VPS 18",
+		"/Volumes/VPS 17",
+		"/Volumes/VPS 16",
+		"/Volumes/VPS 15",
+		"/Volumes/VPS 14",
+		"/Volumes/VPS 13",
+		"/Volumes/VPS 12",
+		"/Volumes/VPS 11",
+		"/Volumes/VPS 10",
+		"/Users/anton/Desktop/cours",
+		"/Volumes/VPS 9",
+		"/Volumes/VPS 8",
+		"/Volumes/VPS 7",
+		"/Volumes/VPS 6",
+		"/Volumes/VPS 6/proto/Music_Louis",
+		"/Users/anton/Desktop/multimedia sik/mp3",
+		"/Users/anton/Desktop/multimedia sik",
+		"/Volumes/VPS 5/proto/discord",
+		"/Volumes/VPS 5",
+		"/Volumes/VPS 4/proto/discord",
+		"/Volumes/VPS 2/proto/discord",
+		"/Volumes/Serveur de test",
+		"/Volumes/VPS 12/blog",
+		"/Volumes/VPS/espace_membre",
+		"/Volumes/VPS/blog",
+		"/Volumes/VPS 3/blog",
+		"/Volumes/VPS 3/proto/poo",
+		"/Volumes/VPS 3/CDD/Séance_1_boiler_plate",
+		"/Volumes/VPS/proto/encodage",
+		"/Volumes/VPS 2/blog"
 	],
-	"last_version": 3126,
-	"last_window_id": 14,
+	"last_version": 3143,
+	"last_window_id": 121,
 	"log_indexing": false,
 	"settings":
 	{
-		"new_window_height": 686.0,
+		"new_window_height": 688.0,
 		"new_window_settings":
 		{
 			"auto_complete":
 			{
 				"selected_items":
 				[
+					[
+						"cl",
+						"club_own_table"
+					],
+					[
+						"club",
+						"club_own"
+					],
+					[
+						"club_member",
+						"club_member_table"
+					],
+					[
+						"club_tag",
+						"club_tag_val"
+					],
+					[
+						"text",
+						"text-align"
+					],
+					[
+						"flex",
+						"flex-wrap"
+					],
+					[
+						"mar",
+						"margin-top"
+					],
+					[
+						"ali",
+						"align-content"
+					],
+					[
+						"data",
+						"data_added"
+					],
+					[
+						"req",
+						"req_added"
+					],
+					[
+						"pa",
+						"padding"
+					],
+					[
+						"list",
+						"list-style-position"
+					],
+					[
+						"var",
+						"var_dump"
+					],
+					[
+						"article",
+						"article_id"
+					],
+					[
+						"user",
+						"user_data"
+					],
+					[
+						"ow",
+						"owner"
+					],
+					[
+						"o",
+						"owner"
+					],
+					[
+						"own",
+						"owners"
+					],
+					[
+						"align",
+						"align-items"
+					],
+					[
+						"margin",
+						"margin-left"
+					],
+					[
+						"min",
+						"min-width"
+					],
+					[
+						"tag",
+						"tag_value"
+					],
+					[
+						"back",
+						"background-color"
+					],
+					[
+						"marg",
+						"margin-left"
+					],
+					[
+						"font",
+						"font-size"
+					],
+					[
+						"id",
+						"id_topic"
+					],
+					[
+						"tex",
+						"text-align"
+					],
+					[
+						"tra",
+						"transform"
+					],
+					[
+						"backgr",
+						"background-color"
+					],
+					[
+						"fl",
+						"flex-direction"
+					],
+					[
+						"wi",
+						"width"
+					],
+					[
+						"n",
+						"number2"
+					],
+					[
+						"number",
+						"number1"
+					],
+					[
+						"int",
+						"intval"
+					],
+					[
+						"str_re",
+						"str_replace"
+					],
+					[
+						"au",
+						"author_id"
+					],
+					[
+						"a",
+						"author_message"
+					],
+					[
+						"pad",
+						"padding"
+					],
+					[
+						"date",
+						"date_today"
+					],
+					[
+						"miin",
+						"min-height"
+					],
+					[
+						"te",
+						"text-decoration"
+					],
+					[
+						"activate",
+						"activate_val"
+					],
+					[
+						"rank",
+						"rank_val"
+					],
+					[
+						"email",
+						"email_val"
+					],
+					[
+						"border",
+						"border-bottom"
+					],
+					[
+						"brea",
+						"word-break"
+					],
+					[
+						"over",
+						"overflow-wrap"
+					],
+					[
+						"m",
+						"min-width"
+					],
+					[
+						"wrap",
+						"overflow-wrap"
+					],
+					[
+						"box-",
+						"box-shadow"
+					],
+					[
+						"di",
+						"display"
+					],
+					[
+						"ou",
+						"outline-color"
+					],
+					[
+						"conn",
+						"connect_btn"
+					],
+					[
+						"sp",
+						"space-between"
+					],
+					[
+						"padd",
+						"padding-right"
+					],
+					[
+						"padding-",
+						"padding-top"
+					],
+					[
+						"utf",
+						"utf8_encode"
+					],
+					[
+						"html",
+						"html\tBase d'un code HTML"
+					]
 				]
 			},
 			"build_system_choices":
@@ -22,24 +299,20 @@
 			"build_varint": "",
 			"command_palette":
 			{
-				"height": 127.0,
-				"last_filter": "install",
+				"height": 277.0,
+				"last_filter": "html",
 				"selected_items":
 				[
 					[
-						"install",
-						"Package Control: Install Package"
+						"html",
+						"Set Syntax: HTML"
 					],
 					[
-						"instal",
-						"Package Control: Install Package"
+						"boxy",
+						"Boxy Theme: Preferences"
 					],
 					[
-						"set java",
-						"Set Syntax: JavaScript"
-					],
-					[
-						"php",
+						"set p",
 						"Set Syntax: PHP"
 					],
 					[
@@ -47,27 +320,82 @@
 						"Set Syntax: HTML"
 					],
 					[
-						"set s php",
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"set twig",
+						"Set Syntax: HTML (Twig)"
+					],
+					[
+						"install ",
+						"Package Control: Install Package"
+					],
+					[
+						"set syn php",
 						"Set Syntax: PHP"
 					],
 					[
-						"set s html",
+						"instlal",
+						"Package Control: Install Package"
+					],
+					[
+						"set css",
+						"Set Syntax: CSS"
+					],
+					[
+						"set ht",
 						"Set Syntax: HTML"
 					],
 					[
 						"insta",
 						"Package Control: Install Package"
+					],
+					[
+						"linter",
+						"SublimeLinter: Choose Mark Style"
+					],
+					[
+						"sublimeLinter",
+						"SublimeLinter: Choose Lint Mode"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"node",
+						"Build With: Nodejs"
+					],
+					[
+						"livereload",
+						"LiveReload: Enable/disable plug-ins"
+					],
+					[
+						"set php",
+						"Set Syntax: PHP"
+					],
+					[
+						"ph",
+						"Set Syntax: PHP"
+					],
+					[
+						"syntax html",
+						"Set Syntax: HTML"
 					]
 				],
-				"width": 445.0
+				"width": 462.0
 			},
 			"console":
 			{
-				"height": 126.0,
+				"height": 128.0,
 				"history":
 				[
-					"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
-					"cd .."
+					"cd /..",
+					"cls",
+					"clear",
+					"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+					"clear"
 				]
 			},
 			"distraction_free":
@@ -81,20 +409,139 @@
 			},
 			"file_history":
 			[
-				"/Users/Anton/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
-				"/Users/Anton/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
-				"/Users/Anton/Library/Application Support/Sublime Text 3/Packages/Agila-Theme-2.2.0/Agila Oceanic Next.tmTheme",
-				"/Users/Anton/Library/Application Support/Sublime Text 3/Packages/Agila-Theme-2.2.0/Agila.skins",
-				"/Users/Anton/Library/Application Support/Sublime Text 3/Packages/Agila-Theme-2.2.0/Agila Origin.sublime-theme",
-				"/Users/Anton/Library/Application Support/Sublime Text 3/Packages/Agila-Theme-2.2.0/Agila Origin Oceanic Next.tmTheme"
+				"/Users/anton/Documents/test.xml",
+				"/Users/anton/Documents/poo/index.php",
+				"/Users/anton/Downloads/Petsy/config/routes.rb",
+				"/Users/anton/Documents/Petsy/config/routes.rb",
+				"/Users/anton/Documents/Petsy/app/views/layouts/application.html.erb",
+				"/Users/anton/Documents/Petsy/config/database.yml",
+				"/Users/anton/Documents/Petsy/config/application.rb",
+				"/Users/anton/Documents/Petsy/db/migrate/20171027000145_create_users.rb",
+				"/Users/anton/Documents/Petsy/app/controllers/users_controller.rb",
+				"/Users/anton/Downloads/Petsy/app/controllers/users_controller.rb",
+				"/Users/anton/Documents/Petsy/app/views/new.html.erb",
+				"/Volumes/VPS 2/manager/pages/user.php",
+				"/Volumes/VPS 2/manager/user_manager.php",
+				"/Volumes/VPS 2/select_club.php",
+				"/Volumes/VPS 2/writer.php",
+				"/Volumes/VPS 2/assets/js/app.js",
+				"/Volumes/VPS 2/club.php",
+				"/Volumes/VPS 2/manager/club_manage.php",
+				"/Volumes/VPS 2/article.php",
+				"/Volumes/VPS 2/assets/includes/header.php",
+				"/Volumes/VPS 2/register.php",
+				"/Volumes/VPS 2/assets/css/style.css",
+				"/Volumes/VPS 2/connect.php",
+				"/Volumes/VPS 2/index.php",
+				"/Volumes/VPS 2/blog/index.php",
+				"/Volumes/VPS 2/proto/add_owner/js/app.js",
+				"/Volumes/VPS 2/proto/add_owner/css/style.css",
+				"/Volumes/VPS 2/proto/mother_project/view.php",
+				"/Volumes/VPS 2/proto/add_owner/cnx.php",
+				"/Volumes/VPS 2/proto/add_owner/index.php",
+				"/Volumes/VPS 2/proto/add_owner/add_owner_repo/cnx.php",
+				"/Users/anton/Desktop/Github/add_owner_repo/cnx.php",
+				"/Volumes/VPS 2/proto/project_watcher/update_task.php",
+				"/Volumes/VPS 2/proto/mother_project/add_combination.php",
+				"/Volumes/VPS 2/proto/mother_project/assets/js/app.js",
+				"/Volumes/VPS 2/proto/mother_project/cnx.php",
+				"/Volumes/VPS 2/index.html",
+				"/Volumes/VPS 2/manager/assets/css/style.css",
+				"/Volumes/VPS 2/manager/pages/manager_club.php",
+				"/Volumes/VPS 2/post_comment.php",
+				"/Volumes/VPS 2/post_article.php",
+				"/Volumes/VPS/assets/js/app.js",
+				"/Volumes/VPS 2/manager/pages/add_club.php",
+				"/Volumes/VPS 2/manager/post_club.php",
+				"/Volumes/VPS 2/myclub.php",
+				"/Volumes/VPS 2/update_article.php",
+				"/Volumes/VPS 2/manager/pages/article.php",
+				"/Volumes/VPS 2/manager/articles_manage.php",
+				"/Volumes/VPS/blog/assets/css/style.css",
+				"/Volumes/VPS/assets/css/style.css",
+				"/Volumes/VPS/blog/about.php",
+				"/Volumes/VPS/blog/index.php",
+				"/Volumes/VPS/club.php",
+				"/Users/anton/Desktop/club@79.137.31.140",
+				"/Volumes/Untitled/Users/anton/salut.php",
+				"/Users/anton/Desktop/alert.js",
+				"/Volumes/VPS 2/clubs.php",
+				"/Volumes/VPS 2/mdl.php",
+				"/Volumes/VPS/proto/coloration/app.js",
+				"/Users/anton/Downloads/prism.css",
+				"/Volumes/VPS/proto/coloration/style.css",
+				"/Volumes/VPS/proto/coloration/index.php",
+				"/style.css",
+				"/Volumes/VPS/article.php",
+				"/Volumes/VPS/assets/js/autosize.js",
+				"/Volumes/VPS/assets/includes/header.php",
+				"/Volumes/VPS 3/proto/trello/vendor/autoload.php",
+				"/Volumes/VPS 2/cafet.php",
+				"/Volumes/VPS 2/other_profil.php",
+				"/Volumes/VPS 2/profil.php",
+				"/Volumes/VPS/.htaccess",
+				"/Volumes/VPS 15/assets/css/style.css",
+				"/Volumes/VPS 15/article.php",
+				"/Volumes/VPS 15/assets/includes/header.php",
+				"/Volumes/VPS 15/assets/js/autosize.js",
+				"/Volumes/VPS 10/select_user.php",
+				"/Volumes/VPS 10/manager/pages/user.php",
+				"/Volumes/VPS 10/post_article.php",
+				"/Volumes/VPS 10/assets/js/app.js",
+				"/Volumes/VPS 10/writer.php",
+				"/Volumes/VPS 6/manager/assets/css/style.css",
+				"/Volumes/VPS/manager/user_manager.php",
+				"/Volumes/VPS 2/blog/log.php",
+				"/Volumes/VPS 2/blog/write.php",
+				"/Volumes/VPS 2/blog/single.php",
+				"/Volumes/VPS 2/blog/assets/css/style.css",
+				"/Volumes/VPS 2/proto/website/blog.php",
+				"/Volumes/VPS 12/blog/assets/css/style.css",
+				"/Volumes/VPS 12/blog/log.php",
+				"/Volumes/VPS 12/blog/write.php",
+				"/Volumes/VPS 12/blog/index.php",
+				"/Volumes/VPS 12/blog/assets/js/app.js",
+				"/Volumes/VPS 12/blog/pages/write.php",
+				"/Volumes/VPS 12/blog/pages/log.php",
+				"/Volumes/VPS 12/blog/assets/inc/cnx.php",
+				"/Volumes/VPS 12/blog/pages/logout.php",
+				"/Volumes/VPS 12/espace_membre/Sources/assets/inc/cnx.php",
+				"/Volumes/VPS 12/espace_membre/Sources/index.php",
+				"/Volumes/VPS 9/manager/user_manager.php",
+				"/Volumes/VPS 9/manager/articles_manage.php",
+				"/Volumes/VPS 9/update_statue_article.php",
+				"/Volumes/VPS 6/manager/articles_manage.php",
+				"/Volumes/VPS 6/manager/index.php",
+				"/Volumes/VPS 5/manager/pages/user.php",
+				"/Volumes/VPS 4/select_club.php",
+				"/Volumes/VPS 4/add_account.php",
+				"/Volumes/VPS 4/register.php",
+				"/Volumes/VPS 4/assets/js/app.js",
+				"/Volumes/VPS 2/manager/header.php",
+				"/Volumes/VPS/blog/log.php",
+				"/Users/anton/Dropbox (Personal)/Backup_VPS/mdl_25_sept_2017/mdl/proto/mon_framework/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/Template/js/bootstrap.min.js",
+				"/Users/anton/Dropbox (Personal)/Perso/Mon Dropbox/Codding/Bootstrap/dist/js/bootstrap.js",
+				"/Users/anton/Dropbox (Personal)/Perso/Mon Dropbox/Programmation/Bootstrap/Autres fichier/js/alert.js",
+				"/Users/anton/Dropbox (Personal)/menu_deroulant/js/app.js",
+				"/Users/anton/Dropbox (Personal)/js/app.js",
+				"/Users/anton/Downloads/bijou-master (1)/index.php",
+				"/Volumes/VPS/proto/encodage/index.php",
+				"/Volumes/VPS/proto/mother_project/add_combination.php",
+				"/Volumes/VPS/proto/encodage/cnx.php",
+				"/Volumes/VPS/assets/includes/cnx.php",
+				"/Volumes/VPS/manager/assets/includes/cnx.php",
+				"/Volumes/VPS/proto/mother_project/add.php",
+				"/Volumes/VPS/proto/mother_project/cnx.php",
+				"/Volumes/VPS/blog/css/style.css",
+				"/Volumes/VPS/blog/assets/js/app.js"
 			],
 			"find":
 			{
-				"height": 0.0
+				"height": 23.0
 			},
 			"find_in_files":
 			{
-				"height": 0.0,
+				"height": 132.0,
 				"where_history":
 				[
 				]
@@ -108,7 +555,7 @@
 				"highlight": true,
 				"in_selection": false,
 				"preserve_case": false,
-				"regex": false,
+				"regex": true,
 				"replace_history":
 				[
 				],
@@ -120,13 +567,17 @@
 			},
 			"incremental_find":
 			{
-				"height": 0.0
+				"height": 23.0
 			},
 			"input":
 			{
-				"height": 0.0
+				"height": 39.0
 			},
 			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 124.0
+			},
 			"output.find_results":
 			{
 				"height": 0.0
@@ -134,7 +585,7 @@
 			"pinned_build_system": "",
 			"replace":
 			{
-				"height": 0.0
+				"height": 42.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -143,6 +594,242 @@
 				"last_filter": "",
 				"selected_items":
 				[
+					[
+						"user",
+						"app/controllers/users_controller.rb"
+					],
+					[
+						"userscontroller",
+						"app/controllers/users_controller.rb"
+					],
+					[
+						"routes",
+						"config/routes.rb"
+					],
+					[
+						"application.tml",
+						"app/views/layouts/application.html.erb"
+					],
+					[
+						"create",
+						"db/migrate/20171027000145_create_users.rb"
+					],
+					[
+						"select",
+						"select_club.php"
+					],
+					[
+						"club",
+						"club.php"
+					],
+					[
+						"app",
+						"assets/js/app.js"
+					],
+					[
+						"writer",
+						"writer.php"
+					],
+					[
+						"articl",
+						"article.php"
+					],
+					[
+						"club_",
+						"manager/club_manage.php"
+					],
+					[
+						"article",
+						"article.php"
+					],
+					[
+						"index",
+						"index.php"
+					],
+					[
+						"style",
+						"assets/css/style.css"
+					],
+					[
+						"con",
+						"connect.php"
+					],
+					[
+						"register",
+						"register.php"
+					],
+					[
+						"header",
+						"assets/includes/header.php"
+					],
+					[
+						"style.css",
+						"manager/assets/css/style.css"
+					],
+					[
+						"comment",
+						"post_comment.php"
+					],
+					[
+						"post",
+						"post_article.php"
+					],
+					[
+						"wri",
+						"writer.php"
+					],
+					[
+						"app.js",
+						"assets/js/app.js"
+					],
+					[
+						"manage",
+						"manager/club_manage.php"
+					],
+					[
+						"manager/article",
+						"manager/pages/article.php"
+					],
+					[
+						"manag",
+						"manager/articles_manage.php"
+					],
+					[
+						"manager/club",
+						"manager/pages/manager_club.php"
+					],
+					[
+						"update",
+						"update_article.php"
+					],
+					[
+						"post_club",
+						"manager/post_club.php"
+					],
+					[
+						"mycl",
+						"myclub.php"
+					],
+					[
+						"post_",
+						"post_comment.php"
+					],
+					[
+						"styl",
+						"assets/css/style.css"
+					],
+					[
+						"myclu",
+						"myclub.php"
+					],
+					[
+						"mdl",
+						"mdl.php"
+					],
+					[
+						"clubs",
+						"clubs.php"
+					],
+					[
+						"app.",
+						"assets/js/app.js"
+					],
+					[
+						"arti",
+						"article.php"
+					],
+					[
+						"index.php",
+						"index.php"
+					],
+					[
+						".h",
+						".htaccess"
+					],
+					[
+						"autosize",
+						"assets/js/autosize.js"
+					],
+					[
+						"assets/style.css",
+						"assets/css/style.css"
+					],
+					[
+						"assets/style",
+						"assets/css/style.css"
+					],
+					[
+						"manager/css",
+						"manager/assets/css/style.css"
+					],
+					[
+						"mana",
+						"manager/articles_manage.php"
+					],
+					[
+						"user_mana",
+						"manager/user_manager.php"
+					],
+					[
+						"manager",
+						"manager/articles_manage.php"
+					],
+					[
+						"blog/",
+						"blog/write.php"
+					],
+					[
+						"blog",
+						"proto/website/blog.php"
+					],
+					[
+						"sty",
+						"assets/css/style.css"
+					],
+					[
+						"manager/user",
+						"manager/user_manager.php"
+					],
+					[
+						"mangare",
+						"manager/articles_manage.php"
+					],
+					[
+						"manager/",
+						"manager/index.php"
+					],
+					[
+						"manager/a",
+						"manager/articles_manage.php"
+					],
+					[
+						"manager/sty",
+						"manager/assets/css/style.css"
+					],
+					[
+						"re",
+						"register.php"
+					],
+					[
+						"add",
+						"add_account.php"
+					],
+					[
+						"myc",
+						"myclub.php"
+					],
+					[
+						"st",
+						"assets/css/style.css"
+					],
+					[
+						"myclub",
+						"myclub.php"
+					],
+					[
+						"my",
+						"myclub.php"
+					]
 				],
 				"width": 0.0
 			},
@@ -164,11 +851,11 @@
 				],
 				"width": 0.0
 			},
-			"show_minimap": true,
+			"show_minimap": false,
 			"show_open_files": false,
 			"show_tabs": true,
-			"side_bar_visible": false,
-			"side_bar_width": 150.0,
+			"side_bar_visible": true,
+			"side_bar_width": 226.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
@@ -178,267 +865,6 @@
 	},
 	"windows":
 	[
-		{
-			"auto_complete":
-			{
-				"selected_items":
-				[
-					[
-						"html",
-						"html\tBase d'un code HTML"
-					]
-				]
-			},
-			"buffers":
-			[
-				{
-					"contents": "",
-					"settings":
-					{
-						"buffer_size": 0,
-						"line_ending": "Unix"
-					}
-				}
-			],
-			"build_system": "",
-			"build_system_choices":
-			[
-			],
-			"build_varint": "",
-			"command_palette":
-			{
-				"height": 357.0,
-				"last_filter": "snipp",
-				"selected_items":
-				[
-					[
-						"snipp",
-						"SnippetMaker: Make Snippet"
-					],
-					[
-						"set html",
-						"Set Syntax: HTML"
-					],
-					[
-						"Snippet: ",
-						"SnippetMaker: Make Snippet"
-					],
-					[
-						"install",
-						"Package Control: Install Package"
-					],
-					[
-						"instal",
-						"Package Control: Install Package"
-					],
-					[
-						"set java",
-						"Set Syntax: JavaScript"
-					],
-					[
-						"php",
-						"Set Syntax: PHP"
-					],
-					[
-						"set s php",
-						"Set Syntax: PHP"
-					],
-					[
-						"set s html",
-						"Set Syntax: HTML"
-					],
-					[
-						"insta",
-						"Package Control: Install Package"
-					]
-				],
-				"width": 427.0
-			},
-			"console":
-			{
-				"height": 126.0,
-				"history":
-				[
-					"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
-					"cd .."
-				]
-			},
-			"distraction_free":
-			{
-				"menu_visible": true,
-				"show_minimap": false,
-				"show_open_files": false,
-				"show_tabs": false,
-				"side_bar_visible": false,
-				"status_bar_visible": false
-			},
-			"file_history":
-			[
-				"/Users/Anton/Library/Application Support/Sublime Text 3/Packages/User/link.sublime-snippet",
-				"/Users/Anton/Library/Application Support/Sublime Text 3/Packages/User/script.sublime-snippet",
-				"/Users/Anton/Library/Application Support/Sublime Text 3/Packages/User/jQueryUI.sublime-snippet",
-				"/Users/Anton/Library/Application Support/Sublime Text 3/Packages/User/jqueryui_2.sublime-snippet",
-				"/Users/Anton/Library/Application Support/Sublime Text 3/Packages/User/jQUery.sublime-snippet",
-				"/Users/Anton/Library/Application Support/Sublime Text 3/Packages/User/jquery_2.sublime-snippet",
-				"/Users/Anton/Library/Application Support/Sublime Text 3/Packages/User/html.sublime-snippet",
-				"/Users/Anton/Library/Application Support/Sublime Text 3/Packages/Agila-Theme-2.2.0/Agila Oceanic Next.tmTheme",
-				"/Users/Anton/Library/Application Support/Sublime Text 3/Packages/Agila-Theme-2.2.0/Agila.skins",
-				"/Users/Anton/Library/Application Support/Sublime Text 3/Packages/Agila-Theme-2.2.0/Agila Origin.sublime-theme",
-				"/Users/Anton/Library/Application Support/Sublime Text 3/Packages/Agila-Theme-2.2.0/Agila Origin Oceanic Next.tmTheme"
-			],
-			"find":
-			{
-				"height": 0.0
-			},
-			"find_in_files":
-			{
-				"height": 0.0,
-				"where_history":
-				[
-				]
-			},
-			"find_state":
-			{
-				"case_sensitive": false,
-				"find_history":
-				[
-				],
-				"highlight": true,
-				"in_selection": false,
-				"preserve_case": false,
-				"regex": false,
-				"replace_history":
-				[
-				],
-				"reverse": false,
-				"show_context": true,
-				"use_buffer2": true,
-				"whole_word": false,
-				"wrap": true
-			},
-			"groups":
-			[
-				{
-					"selected": 0,
-					"sheets":
-					[
-						{
-							"buffer": 0,
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 0,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										0,
-										0
-									]
-								],
-								"settings":
-								{
-									"auto_name": "",
-									"syntax": "Packages/HTML/HTML.sublime-syntax"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 0,
-							"type": "text"
-						}
-					]
-				}
-			],
-			"incremental_find":
-			{
-				"height": 0.0
-			},
-			"input":
-			{
-				"height": 39.0
-			},
-			"layout":
-			{
-				"cells":
-				[
-					[
-						0,
-						0,
-						1,
-						1
-					]
-				],
-				"cols":
-				[
-					0.0,
-					1.0
-				],
-				"rows":
-				[
-					0.0,
-					1.0
-				]
-			},
-			"menu_visible": true,
-			"output.find_results":
-			{
-				"height": 0.0
-			},
-			"pinned_build_system": "",
-			"position": "0 0 69 1280 708 0 0 1280 777 ",
-			"project": "",
-			"replace":
-			{
-				"height": 0.0
-			},
-			"save_all_on_build": true,
-			"select_file":
-			{
-				"height": 0.0,
-				"last_filter": "",
-				"selected_items":
-				[
-				],
-				"width": 0.0
-			},
-			"select_project":
-			{
-				"height": 0.0,
-				"last_filter": "",
-				"selected_items":
-				[
-				],
-				"width": 0.0
-			},
-			"select_symbol":
-			{
-				"height": 0.0,
-				"last_filter": "",
-				"selected_items":
-				[
-				],
-				"width": 0.0
-			},
-			"selected_group": 0,
-			"settings":
-			{
-			},
-			"show_minimap": true,
-			"show_open_files": false,
-			"show_tabs": true,
-			"side_bar_visible": true,
-			"side_bar_width": 150.0,
-			"status_bar_visible": true,
-			"template_settings":
-			{
-			},
-			"window_id": 3,
-			"workspace_name": ""
-		}
 	],
 	"workspaces":
 	{
